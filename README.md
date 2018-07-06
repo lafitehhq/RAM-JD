@@ -1,5 +1,5 @@
 参考：
-https://github.com/lafitehhq/RAM-JD
+https://github.com/LewisTian/RAM-JD
 
 使用说明：
 >> git clone https://github.com/LewisTian/RAM-JD.git
