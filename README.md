@@ -1,10 +1,10 @@
 参考：
 https://github.com/LewisTian/RAM-JD
-
-使用说明：
->> git clone https://github.com/LewisTian/RAM-JD.git
->> cd RAM-JD
->> pip install -r requirements.txt
+  
+使用说明：  
+>> git clone https://github.com/LewisTian/RAM-JD.git  
+>> cd RAM-JD  
+>> pip install -r requirements.txt  
 
 
 1.建表
